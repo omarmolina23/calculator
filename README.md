@@ -35,7 +35,7 @@ After selecting an operation, input the first and second numbers as prompted.
 4. **Receive result**:
 The application will display the result of the selected operation.
 
-## Ejemplo
+## Example
     --> Enter 1 to add 
     --> Enter 2 to subtract 
     --> Enter 3 to multiply 
