@@ -20,12 +20,13 @@ This is a simple command-line calculator application implemented in Python. It p
    Select an operation:
 
 2. **Select an operation**:
-    Enter 1 for addition.
-    Enter 2 for subtraction.
-    Enter 3 for multiplication.
-    Enter 4 for division.
-    Enter 5 for modulo.
-    Enter 6 to exit the application.
+    ```bash
+    Enter `1` for addition.
+    Enter `2` for subtraction.
+    Enter `3` for multiplication.
+    Enter `4` for division.
+    Enter `5` for modulo.
+    Enter `6` to exit the application.
     Input numbers:
 
 3. **Input numbers**:
