@@ -31,7 +31,6 @@ This is a simple command-line calculator application implemented in Python. It p
 
 3. **Input numbers**:
 After selecting an operation, input the first and second numbers as prompted.
-Receive result:
 
 4. **Receive result**:
 The application will display the result of the selected operation.
