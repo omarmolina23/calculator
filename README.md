@@ -1,4 +1,4 @@
-# Calculator Application
+# Calculator Application in Python 🐍
 
 ## Overview
 
@@ -60,3 +60,8 @@ Division by Zero: The application raises an exception if a division or modulo op
 - **`multiply(self)`**: Returns the product of `num1` and `num2`.
 - **`divide(self)`**: Returns the quotient of `num1` divided by `num2`, or raises an exception if `num2` is zero.
 - **`mod(self)`**: Returns the remainder of `num1` divided by `num2`, or raises an exception if `num2` is zero.
+
+## Contributors
+- Omar David Jaimes Molina - 1152263
+- Bryan Alejandro Vera Osorio - 1152277
+- Saimer Adrián Saavedra Rojas - 1152280
