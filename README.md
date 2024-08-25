@@ -6,11 +6,11 @@ This is a simple command-line calculator application implemented in Python. It p
 
 ## Features
 
-- **Addition**: Adds two numbers.
-- **Subtraction**: Subtracts the second number from the first number.
-- **Multiplication**: Multiplies two numbers.
-- **Division**: Divides the first number by the second number, with error handling for division by zero.
-- **Modulo**: Computes the remainder of the division of the first number by the second number, with error handling for division by zero.
+- ➕ **Addition**: Adds two numbers.
+- ➖ **Subtraction**: Subtracts the second number from the first number.
+- ✖️ **Multiplication**: Multiplies two numbers.
+- ➗ **Division**: Divides the first number by the second number, with error handling for division by zero.
+- 🔢 **Modulo**: Computes the remainder of the division of the first number by the second number, with error handling for division by zero.
 
 ## Usage
 
@@ -49,7 +49,7 @@ The application will display the result of the selected operation.
 
 ## Error Handling
 
-Division by Zero: The application raises an exception if a division or modulo operation is attempted with zero as the divisor. The error message displayed is "Oops! Divide by zero."
+🚫 Division by Zero: The application raises an exception if a division or modulo operation is attempted with zero as the divisor. The error message displayed is "Oops! Divide by zero."
 
 ## Code Structure
 *`Calculator` class*: Contains methods for addition, subtraction, multiplication, division, and modulo operations. It also includes error handling for division by zero.
@@ -62,6 +62,6 @@ Division by Zero: The application raises an exception if a division or modulo op
 - **`mod(self)`**: Returns the remainder of `num1` divided by `num2`, or raises an exception if `num2` is zero.
 
 ## Contributors
-- Omar David Jaimes Molina - 1152263
-- Bryan Alejandro Vera Osorio - 1152277
-- Saimer Adrián Saavedra Rojas - 1152280
+- 🧑‍💻 Omar David Jaimes Molina - 1152263
+- 🧑‍💻 Bryan Alejandro Vera Osorio - 1152277
+- 🧑‍💻 Saimer Adrián Saavedra Rojas - 1152280
